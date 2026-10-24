@@ -6,3 +6,5 @@
 | taste-skill (design-taste-frontend) | https://github.com/leonxlnx/taste-skill | 6010f91 | MIT |
 
 To update, re-copy the skill folders from the source repos.
+
+`agent-reach` comes from https://github.com/Panniantong/Agent-Reach (MIT). Its CLI is installed in cloud sessions by `.claude/hooks/install-agent-reach.sh`.
